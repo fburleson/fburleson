@@ -1,10 +1,10 @@
-<body margin="auto">
+<div margin="auto">
 <h2>Hi there, 👋 welcome to my GitHub! I'm a machine learning / software engineer student and enthusiast. I'm especially proficient in Python, C and C++. 🐍💻</h2>
 <!--
 IMG
 -->
 Check out my projects ⬇️
-</body>
+</div>
 
 <!--
 **fburleson/fburleson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
