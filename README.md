@@ -4,7 +4,7 @@
   <hr>
   <p>
       <img alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-      <img alt="Email" width="30px" style="padding-right:10px; filter:invert(100%);" src="https://simpleicons.org/icons/gmail.svg" />
+      <img alt="Email" width="30px" style="filter:invert(100%)" src="https://simpleicons.org/icons/gmail.svg" />
   </p>
   <hr>
   <h3>Languages and Tools</h3>
