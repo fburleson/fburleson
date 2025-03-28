@@ -4,8 +4,8 @@
   <h3>📞 Contact me here 📞</h3>
   <p>
     <ul>
-      <a href="https://www.linkedin.com/in/foday-burleson">👔LinkedIn</a>
-      <a href="mailto:fodayburleson@gmail.com">📧Email</a>
+      <li><a href="https://www.linkedin.com/in/foday-burleson">👔LinkedIn</a></li>
+      <li><a href="mailto:fodayburleson@gmail.com">📧Email</a></li>
     </ul>
   </p>
   <h3>🧰 Languages and Tools 🧰</h3>
