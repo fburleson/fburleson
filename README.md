@@ -3,7 +3,7 @@
   I'm currently working on a reinforcement learning project using PyTorch! 🔭
   <h3>📞 Contact me here 📞</h3>
   <p>
-      👔<a href="https://www.linkedin.com/in/foday-burleson">LinkedIn</a><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />     
       📧<a href="mailto:fodayburleson@gmail.com">Email</a><br />
   </p>
   <h3>🧰 Languages and Tools 🧰</h3>
