@@ -1,7 +1,11 @@
+## Hi there, 👋 welcome to my GitHub! I'm a machine learning / software engineer student and enthusiast. I'm especially proficient in Python, C and C++. 🐍💻
+<!--
+IMG
+-->
+Check out my projects ⬇️
 
-## Hi there, I'm Joël 👋
 ---
-I'm a machine learning enigneer and software developer from Amsterdam. Always trying to learn new skills in tech.
+
 <!--
 **fburleson/fburleson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
