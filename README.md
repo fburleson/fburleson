@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Hi there, 👋 welcome to my GitHub! I'm a machine learning / software engineer student and enthusiast. I'm especially proficient in Python, C and C++. 🐍💻<p>
+  ## Hi there, 👋 welcome to my GitHub! I'm a machine learning / software engineer student and enthusiast. I'm especially proficient in Python, C and C++. 🐍💻
   <p>Check out my projects ⬇️</p>
 </div>
 
