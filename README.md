@@ -3,7 +3,7 @@
 <!--
 IMG
 -->
-Check out my projects ⬇️
+<p>Check out my projects ⬇️</p>
 </div>
 
 <!--
