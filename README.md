@@ -3,8 +3,8 @@
   I'm currently working on a reinforcement learning project using PyTorch! 🔭
   <h3>📞 Contact me here 📞</h3>
   <p>
-      <img alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />     
-      📧<a href="mailto:fodayburleson@gmail.com">Email</a><br />
+      <img alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+      <img alt="Email" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/gmail.svg" />
   </p>
   <h3>🧰 Languages and Tools 🧰</h3>
   <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
