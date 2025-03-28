@@ -1,9 +1,10 @@
-<h1>Hi there, 👋 welcome to my GitHub! I'm a machine learning / software engineer student and enthusiast. I'm especially proficient in Python, C and C++. 🐍💻</h1>
+<body align="center">
+<h2>Hi there, 👋 welcome to my GitHub! I'm a machine learning / software engineer student and enthusiast. I'm especially proficient in Python, C and C++. 🐍💻</h1>
 <!--
 IMG
 -->
 Check out my projects ⬇️
-
+</body>
 ---
 
 <!--
