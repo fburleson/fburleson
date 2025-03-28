@@ -2,8 +2,8 @@
   <p><strong>Hi there, 👋 welcome to my GitHub! I'm a machine learning / software engineer student and enthusiast. I'm especially proficient in Python, C and C++. 🐍💻</strong></p>
   <h3>📞 Contact me here</h3>
   <p>
-    👔[LinkedIn](www.linkedin.com/in/foday-burleson)
-    📧[Email](mailto:fodayburleson@gmail.com)
+    <href a="www.linkedin.com/in/foday-burleson">👔LinkedIn</href>
+    <href a="mailto:fodayburleson@gmail.com">📧Email</href>
   </p>
   <h3>🧰 Languages and Tools</h3>
   <p>Check out my projects ⬇️</p>
