@@ -1,5 +1,7 @@
 <div align="center">
   <p><strong>Hi there, 👋 welcome to my GitHub! I'm a machine learning / software engineer student and enthusiast. I'm especially proficient in Python, C and C++. 🐍💻</strong></p>
+  <h3>Contact</h3>
+  <h3>Languages and Tools</h3>
   <p>Check out my projects ⬇️</p>
 </div>
 
