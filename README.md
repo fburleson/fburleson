@@ -1,6 +1,6 @@
 <div align="center">
   <p><strong>Hi there, 👋 welcome to my GitHub! I'm a machine learning / software engineer student and enthusiast. I'm especially proficient in Python, C and C++. 🐍💻</strong></p>
-  I'm currently working on a reinforcement learning project using PyTorch! 🔭🔥
+  I'm currently working on a computer vision project using PyTorch! 🔭🔥
   <hr>
   <p>
     <a href="https://www.linkedin.com/in/foday-burleson">
