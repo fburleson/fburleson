@@ -1,6 +1,5 @@
 <div align="center">
-  <p><strong>Hi there, 👋 welcome to my GitHub! I'm a machine learning / software engineer student and enthusiast. I'm especially proficient in Python, C and C++. 🐍💻</strong></p>
-  I'm currently working on a computer vision project using PyTorch! 🔭🔥
+  <p><strong>Hi there, 👋 welcome to my GitHub! I'm a software engineer, especially proficient in Python, C and C++. 🐍💻</strong></p>
   <hr>
   <p>
     <a href="https://www.linkedin.com/in/foday-burleson">
