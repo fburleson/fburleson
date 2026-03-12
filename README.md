@@ -1,44 +1,32 @@
-## Hi there 👋, welcome to my GitHub!
-
-I'm Joël, a software engineer based in Amsterdam.  
+# 👋 Hi, I'm Joël Burleson
+I'm a software engineer based in Amsterdam.  
 I build software in Python, C++ and C. 🐍💻  
-I work with linux and windows.  
+I work with Linux and Windows.  
 
-## Contact
-<p>
-  <a href="https://www.linkedin.com/in/foday-burleson">
-    <img alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  </a>
-  <a href="mailto:fodayburleson@gmail.com">
-    <img alt="Email" width="30px" style="filter:invert(100%);" src="https://fonts.gstatic.com/s/i/productlogos/gmail_2020q4/v1/192px.svg" />
-  </a>
-</p>
+📫 **Connect**: [Email](mailto:fodayburleson@gmail.com) | [LinkedIn](https://www.linkedin.com/in/foday-burleson) | [Phone](+310653308315)
+## 🛠 Tech Stack
+- **Languages**: Python, C, C++, JavaScript/TypeScript
+- **AI/ML**: PyTorch, NumPy, Pandas Scikit-Learn
+- **Web**: React, Django, NestJS, PostgreSQL, Docker
 
-## Tools
-<div>
-<img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img alt="Scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
-<img alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
-</br>
-Check out my projects ⬇️
-<!--
-**fburleson/fburleson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Highlighted Projects
 
-Here are some ideas to get you started:
+### [🤖learn2slither](https://github.com/fburleson/learn2slither) (Python, PyTorch, Reinforment Learning)
+- Implemented a deep q-learning network in PyTorch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [🏓transcendence](https://github.com/fransholwerda/ft_transcendence) (React, NestJS)
+A full-stack web platform for online Pong matches made with **React** and **NestJS**.
+- Implemented OAuth API, JWT, and 2FA via Google Authenticator.
+
+### [🌐webserv](https://github.com/fburleson/webserv) (C++, OOP, HTTP)
+A non-blocking HTTP server written in **C++**.
+- Built from scratch to handle GET, POST, and DELETE requests using a custom request parser.
+- Optimized for concurrent client handling.
+
+### [🐳inception](https://github.com/fburleson/inception) (Docker)
+A system administration project focused on **Docker** orchestration.
+- Orchestrated a multi-container network (Nginx, MariaDB, WordPress) using Docker Compose.
+
+## 📈 Background
+- **Software Engineer Intern @ Antea Group:** Researched 3D point cloud object detection for infrastructure automation using **PyTorch**.
+- **Education @ 42 Amsterdam:** Intensive, project-based curriculum at 42 Amsterdam focused on Systems, Algorithms, Data Structures, and Machine Learning.
