@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Joël Burleson
-I build software in Python, C++ and C. 🐍💻
+I am mostly a Python software engineer, but I alss build software in C and C++.
 
 📫 **Connect**: [Email](mailto:fodayburleson@gmail.com) | [LinkedIn](https://www.linkedin.com/in/foday-burleson) | [Phone](+310653308315)
 ## 🛠 Tech Stack
